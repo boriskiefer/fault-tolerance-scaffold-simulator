@@ -135,14 +135,6 @@ Fault-Tolerance Scaffold Simulator:
 Hardware Errors, Measurement Errors, and Software Decoding.
 ```
 
-## Author
-
-Boris Kiefer  
-New Mexico State University  
-
-GitHub: https://github.com/boriskiefer  
-LinkedIn: https://www.linkedin.com/in/boris-kiefer-85089831/
-
 ## Acknowledgement
 
 This material was developed and/or adapted with support from the National
@@ -151,3 +143,11 @@ under NSF Award Nos. OSI-2410813 and OSI-2531569.
 Any opinions, findings, conclusions, or recommendations expressed in this
 material are those of the author(s) and do not necessarily reflect the views
 of the National Science Foundation.
+
+## Author
+
+Boris Kiefer  
+New Mexico State University  
+
+GitHub: https://github.com/boriskiefer  
+LinkedIn: https://www.linkedin.com/in/boris-kiefer-85089831/
