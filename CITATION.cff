@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Fault-Tolerance Scaffold Simulator: Hardware Errors, Measurement Errors, and Software Decoding"
+authors:
+  - family-names: Kiefer
+    given-names: Boris
+    affiliation: "New Mexico State University"
+    email: bkiefer@nmsu.edu
+    orcid: "https://orcid.org/0000-0003-0242-3165"
+version: v2.0
+date-released: 2026-06-01
+license: MIT
+repository-code: "https://github.com/boriskiefer/fault-tolerance-scaffold-simulator"
+abstract: >
+  A classical repetition-code simulator that introduces the systems logic
+  of fault tolerance through hardware errors, measurement errors, and
+  majority-vote software decoding. Version 2.0 adds a multi-cycle
+  error-correction model, a three-panel interactive figure covering
+  majority-vote curves, operating region heatmap, and resource estimation,
+  and a companion guided exercises document with pre- and post-exercise
+  questions and answers.
+keywords:
+  - fault tolerance
+  - quantum error correction
+  - repetition code
+  - majority vote
+  - quantum computing education
+  - error threshold
+  - resource estimation
+  - logical qubit
+references:
+  - type: grant
+    institution:
+      name: "National Science Foundation"
+    number: "OSI-2410813"
+  - type: grant
+    institution:
+      name: "National Science Foundation"
+    number: "OSI-2531569"
