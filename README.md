@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20495044.svg)](https://doi.org/10.5281/zenodo.20495044)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20493559.svg)](https://doi.org/10.5281/zenodo.20493559)
 
 # Fault-Tolerance Scaffold Simulator
 
@@ -205,4 +205,4 @@ New Mexico State University
 
 ## How to cite
 Boris Kiefer, *Fault-Tolerance Scaffold Simulator: Hardware Errors, Measurement Errors, and Software Decoding*, Zenodo,
-https://doi.org/10.5281/zenodo.20495044
+https://doi.org/10.5281/zenodo.20493559
