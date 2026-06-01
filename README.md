@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20493560.svg)](https://doi.org/10.5281/zenodo.20493560)
+
 # Fault-Tolerance Scaffold Simulator
 
 A compact educational simulator that introduces the systems logic behind fault tolerance using a deliberately classical repetition-code model.
@@ -151,3 +153,9 @@ New Mexico State University
 
 GitHub: https://github.com/boriskiefer  
 LinkedIn: https://www.linkedin.com/in/boris-kiefer-85089831/
+
+## How to cite
+
+Boris Kiefer, *Fault-Tolerance Scaffold Simulator: Hardware Errors,
+Measurement Errors, and Software Decoding*, Zenodo,
+https://doi.org/10.5281/zenodo.20493560
